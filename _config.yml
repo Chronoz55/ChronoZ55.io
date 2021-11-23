@@ -1,11 +1,11 @@
 # Name of website
-title: ChronoZ55 Base23
+title: Chronoz55
 
 # Short description of your site
 description: Personal Blog of Tahmid Rayat
 
 # url is the the website domain URL without a trailing slash
-#url: "https://www.facebook.com/Roberto.ELopezMendez/"
+#url: ""
 
 # baseurl should be an empty string
 #baseurl: ""
@@ -62,10 +62,10 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-#  email: "someone@example.com"
-  facebook: tahmid.rayat.official
+#  email: "chronoz55@gmail.com"
+  facebook: Roberto.ELopezMendez
   instagram: tahmid.rayat
-  github: htr-tech
+  github: Chronoz55
   rss: true
 # twitter: daattali
 #  reddit: yourname
